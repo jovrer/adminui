@@ -1,0 +1,10 @@
+{
+    "name": "jovrer/adminui",
+    "authors": [
+        {
+            "name": "jovrer",
+            "email": "jovrer@hotmail.com"
+        }
+    ],
+    "require": {}
+}
